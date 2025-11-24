@@ -81,3 +81,13 @@ pip install googletrans==3.1.0a0
 ```bash
 pip install translate==3.6.1
 ```
+### 3. Настройка конфигурации 
+#### В файле Mail.py замените:
+```python
+EMAIL_CONFIG = {
+    'email_address': 'your_email@example.com',
+    'password': 'your_password',
+    'imap_server': 'imap.example.com',
+    'smtp_server': 'smtp.example.com'
+}
+```
