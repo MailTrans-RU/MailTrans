@@ -1,5 +1,7 @@
 # MailTrans - Система умной обработки почты
 
+<div align="center">
+  
 <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/IMAP/SMTP-Protocol-green?style=for-the-badge&logo=mail.ru" alt="Protocol">
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
@@ -14,6 +16,8 @@ MailTrans - это автоматизированная система обра�
 Проект разработан в рамках программы обучения  
 **«IT-сервисы и технологии обработки данных на транспорте (Китай)»**  
 Период выполнения: **18 сентября 2025 - 24 ноября 2025**.
+
+</div>
 
 ---
 
