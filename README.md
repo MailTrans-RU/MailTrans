@@ -1,7 +1,5 @@
 # MailTrans - Система умной обработки почты
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/IMAP/SMTP-Protocol-green?style=for-the-badge&logo=mail.ru" alt="Protocol">
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
